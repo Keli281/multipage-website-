@@ -1,90 +1,55 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Twilight Clothing Store
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A modern, responsive e-commerce website for Twilight Clothing Store, managed by Natalie.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+## Project Structure
 
----
+- **index.html** - Home page with featured products and newsletter signup
+- **about.html** - About page with company story and values
+- **products.html** - Products page with filtering functionality
+- **contact.html** - Contact page with form and store information
+- **style.css** - Main stylesheet with dark/light theme support
+- **script.js** - JavaScript for interactivity and functionality
+- **media/** - Directory for product and website images
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## Features
 
-Before you write any code, take time to plan:
+- Responsive design that works on mobile, tablet, and desktop
+- Dark/light mode toggle with persistent user preference
+- Product filtering system
+- Form validation for contact and newsletter forms
+- Smooth scrolling navigation
+- Semantic HTML5 structure
+- CSS Grid and Flexbox for layouts
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+## Color Themes
 
-**Goal:** Show intentional structure and user journey across the site.
+- **Light Mode**: White background with pink accents (#e83e8c) and purple secondary (#6f42c1)
+- **Dark Mode**: Dark blue background (#0d1b2a, #1b263b) with the same pink and purple accents
 
----
+## Deployment
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+This website was deployed to:
+- GitHub Pages
 
-Using your plan, begin building:
+## Live URL
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+[Add your live URL here after deployment]
 
-Each page should:
+## Customization
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+To add your own images:
+1. Place images in the `/media` folder
+2. Update the `background-image: url('#')` properties in the HTML files with your image paths
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## Browser Support
 
----
+This website supports all modern browsers including:
+- Chrome (last 2 versions)
+- Firefox (last 2 versions)
+- Safari (last 2 versions)
+- Edge (last 2 versions)
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## License
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+This project is created for Natalie's Twilight Clothing Store.
