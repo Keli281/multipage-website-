@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce website for Twilight Clothing Store, managed by Natalie.
 
-**Live Website URL:** https://keli281.github.io/multipage-website/
+**Live Website URL:** https://keli281.github.io/multipage-website-/
 
 ## Project Purpose
 
@@ -95,7 +95,7 @@ This website supports all modern browsers including:
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/Keli281/multipage-website.git`
+1. Clone the repository: `git clone https://github.com/Keli281/multipage-website-.git`
 2. Open index.html in a web browser
 3. Alternatively, deploy to GitHub Pages for live hosting
 
